@@ -30,10 +30,6 @@ Keywords: Pegasus spyware, NSO Group, zero-click exploit, mobile spyware detecti
 - [Pegasus Spyware Capabilities](#pegasus-spyware-capabilities)
 - [Pegasus Detection & Removal](#pegasus-detection--removal)
 - [Pegasus Spyware Cost & Targets](#pegasus-spyware-cost--targets)
-- [Famous Pegasus Cases](#famous-pegasus-cases)
-- [10 Essential Q&A](#10-essential-qa-about-pegasus-spyware)
-- [100 SEO Hashtags](#100-seo-optimized-hashtags)
-- [Resources & References](#resources--references)
 
 ---
 
