@@ -3,10 +3,8 @@
 <!-- SEO META SECTION - Hidden in rendering but indexed -->
 <!--
 Title: Pegasus Spyware Complete Guide 2025 | Detection, Removal & Protection
-Description: Comprehensive guide to Pegasus spyware by NSO Group. Learn how it works, detection methods using MVT, prevention strategies, and 100+ cybersecurity hashtags. Includes 10 detailed Q&A.
+Description: Comprehensive guide to Pegasus spyware by NSO Group. Learn how it works, detection methods using MVT, detailed Q&A.
 Keywords: Pegasus spyware, NSO Group, zero-click exploit, mobile spyware detection, Pegasus removal, iOS Lockdown Mode, MVT tool, mobile security, spyware protection, cyber surveillance
-Author: Security Research Community
-Date: 2026-04-12
 -->
 
 <div align="center">
